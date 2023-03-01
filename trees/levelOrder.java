@@ -1,5 +1,9 @@
 package trees;
 
+// level order binary tree traversal using recursion & loop
+// time complexity: O(n^2)
+// space complexity: O(n)
+
 // Node class
 class Node{
     Node left, right;
