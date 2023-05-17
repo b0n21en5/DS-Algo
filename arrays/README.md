@@ -1,5 +1,13 @@
 # ARRAY DATA STRUCTURE
 
+## Topics
+
+        * Rotation of array
+        * Rearranging of array
+        * Range queries
+        * Multidimensional Array
+
+
 ## Some Commonly Used Array Sorting
 
         1. QUICK SORT
