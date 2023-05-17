@@ -4,9 +4,21 @@
 
         * Rotation of array
         * Rearranging of array
-        * Range queries
-        * Multidimensional Array
+        * Range queries in the array
+        * Multidimensional array
 
+## Algorithms
+
+        * Searching Algorithm
+        * Sorting Algorithm
+
+        * Kadane's Algorithm
+        * Dutch National Algorithm
+
+## Some commonly Used Array Searching
+
+        1. Linear Search
+        2. Binary Search
 
 ## Some Commonly Used Array Sorting
 
