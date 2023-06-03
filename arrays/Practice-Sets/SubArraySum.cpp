@@ -1,8 +1,6 @@
 // c++ program to find out
 // sub array with given sum
 
-// Time Complexity: O(n)
-
 #include <iostream>
 using namespace std;
 
