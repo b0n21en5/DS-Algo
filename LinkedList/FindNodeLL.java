@@ -1,6 +1,7 @@
 package LinkedList;
 
 public class FindNodeLL{
+     // find node in linkedlist iteratively
     int findNode(Node head, int data){
         Node curr=head;
 
@@ -14,5 +15,16 @@ public class FindNodeLL{
         }
 
         return -1;
+    }
+
+    // find node in linkedlist recursively
+    int findRec(Node head, int data, int ind){
+        if(head==null) return -1;
+
+        if(head.data==data){
+            return ind;
+        }
+
+        return findRec(head.next, data, ind+1);
     }
 }
